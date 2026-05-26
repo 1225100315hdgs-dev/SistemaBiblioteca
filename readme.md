@@ -187,6 +187,6 @@ Este repositorio contiene prácticas, ejercicios, proyectos y material de apoyo 
 # ⭐ ¡Bienvenidos al mundo de Java y la Programación Orientada a Objetos!
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="140">
+  <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-Logo-1996.jpg" width="140">
 </p>
 
